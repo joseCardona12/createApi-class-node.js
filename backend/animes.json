@@ -1,0 +1,14 @@
+[
+  {
+    "id": 2,
+    "title": "AnimeOne",
+    "genre": "aventura",
+    "studioId": 1
+  },
+  {
+    "id": 3,
+    "title": "AnimeOne",
+    "genre": "aventureqwea",
+    "studioId": 2
+  }
+]
